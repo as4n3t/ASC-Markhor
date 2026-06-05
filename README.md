@@ -4,7 +4,7 @@ Welcome to **ASC Markhor agency** — a professional cybersecurity agency focuse
 
 ---
 
-## 🚀 Our Services
+## 🎯 Areas of Expertise
 
 - 🔍 Penetration Testing
 - 🌐 Website Security Audits
