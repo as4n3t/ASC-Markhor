@@ -40,8 +40,6 @@ Welcome to **ASC Markhor agency** — a professional cybersecurity agency focuse
 
 ---
 
-## 🔧 Tools & Technologies
-
 ## 🛠️ Cybersecurity Tools & Technologies
 
 ### 🌐 Web Security
