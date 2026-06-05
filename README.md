@@ -6,12 +6,16 @@ Welcome to **ASC Markhor agency** — a professional cybersecurity agency focuse
 
 ## 🚀 Our Services
 
-- 🔍 Penetration Testing  
+- 🔍 Penetration Testing
 - 🌐 Website Security Audits
--     Malware & issues fix 
-- 🕵️ OSINT Investigations  
-- 🛡️ Vulnerability Assessment  
-- 💻 Secure Web Development  
+- 🛡️ Vulnerability Assessments
+- 🔗 API Security Testing
+- 🔒 SSL/TLS Security Assessments
+- 🕵️ Open Source Intelligence (OSINT) Investigations
+- 🦠 Malware Detection & Removal
+- 🔧 Security Issue Remediation & Hardening
+- 💻 Secure Web Development
+- 📊 Security Consulting & Risk Analysis
 
 ---
 
