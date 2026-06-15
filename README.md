@@ -1,133 +1,94 @@
-# 🔐 ASC Markhor
+# 🔐 ASC MARKHOR | Cybersecurity Practice & Security Services
 
-Welcome to **ASC Markhor agency** — a professional cybersecurity agency focused on securing digital assets and building trusted systems.
-
----
-
-## 🎯 Areas of Expertise
-
-- 🔍 Penetration Testing
-- 🌐 Website Security Audits
-- 🛡️ Vulnerability Assessments
-- 🔗 API Security Testing
-- 🔒 SSL/TLS Security Assessments
-- 🕵️ Open Source Intelligence (OSINT) Investigations
-- 🦠 Malware Detection & Removal
-- 🔧 Security Issue Remediation & Hardening
-- 💻 Secure Web Development
-- 📊 Security Consulting & Risk Analysis
+Welcome to ASC Markhor — a cybersecurity-focused practice and service profile dedicated to securing web applications, identifying vulnerabilities, and improving overall digital security posture.
 
 ---
 
-## 🔄 Our Security Workflow
+## 🎯 Core Expertise
 
-1. Reconnaissance & Analysis  
-2. Vulnerability Assessment  
-3. Ethical Exploitation  
-4. Reporting & Fix Recommendations  
-5. Deployment & Monitoring  
-
----
-
-## 👨‍💻 Our Team
-
-- Security Analysts  
-- Penetration Testers  
-- OSINT Experts  
-- Web Developers  
-- UI/UX Designers  
-- SEO Specialists  
+* Web Application Security (WAPT)
+* Penetration Testing (Ethical & Authorized)
+* Vulnerability Assessment & Reporting
+* WordPress Security & Malware Cleanup
+* API Security Testing
+* OSINT & Digital Reconnaissance
+* SSL/TLS Security Analysis
+* Incident Response & Remediation
+* Secure Configuration & Hardening
 
 ---
 
-## 🛠️ Cybersecurity Tools & Technologies
+## 🔄 Security Methodology
 
-### 🌐 Web Security
-- Burp Suite
-- OWASP ZAP
-- Nikto
-- SQLmap
-
-### 🔍 Network Security & Troubleshooting
-- Nmap
-- Wireshark
-- Metasploit Framework
-- Netcat
-
-### ☁️ Cloud Security
-- Prowler
-- Scout Suite
-- Trivy
-
-### 🔗 API Security Testing
-- Postman
-- Nuclei
-- Kiterunner
-
-### 🔒 SSL / TLS Security Testing
-- testssl.sh
-- SSLyze
-
-### 🦠 Malware Analysis & Reverse Engineering
-- Ghidra
-- Cuckoo Sandbox
-
-### ⚙️ Automation & Scripting
-- Python
-- Bash
-- Ansible
-
-### 💻 Operating Systems
-- Kali Linux
-- Linux
+1. Reconnaissance & Information Gathering
+2. Vulnerability Identification & Assessment
+3. Controlled Testing (Authorized Environments Only)
+4. Risk Analysis & Documentation
+5. Remediation Guidance & Hardening Recommendations
 
 ---
 
-## 📂 Our Work & Projects
+## 🛠️ Tools & Technologies
 
-🔧 **Security Tools**  
-👉 https://github.com/as4n3t/asc markhor-security-tools  
+### Web Security
 
-🌐 **Website Security Workflow**  
-👉 https://github.com/as4n3t/Website-Security-Flow  
+Burp Suite • OWASP ZAP • Nikto • SQLmap
 
-📁 **Portfolio Repository**  
-👉 https://github.com/as4n3t/asc markhor 
+### Network Security
 
----
+Nmap • Wireshark • Netcat
 
-## 📞 Contact
+### API Security
 
-📧 saim4sec@gmail.com  
+Postman • Nuclei • Kiterunner
 
----
+### Malware Analysis
 
-## ⭐ Why Choose ASC Markhor?
+Ghidra • Cuckoo Sandbox • VirusTotal
 
-✔ Professional Team  
-✔ Security-Focused Approach  
-✔ Transparent Communication  
-✔ Reliable & Affordable Solutions  
+### Cloud & DevSecOps
 
----
+Trivy • Scout Suite • Prowler
 
-## 🚀 Work With Us
+### Scripting & Automation
 
-We help businesses build secure, scalable, and reliable systems.  
-Feel free to explore our repositories and reach out for collaboration.
+Python • Bash
+
+### Operating Systems
+
+Linux • Kali Linux
 
 ---
 
-> 🔐 “We don’t just build systems — we secure them.”
-> ## 🚀 Tech Stack
+## 📂 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-blue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-orange?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Security_Testing-red?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-blueviolet?style=for-the-badge)
-![SQLmap](https://img.shields.io/badge/SQLmap-SQL_Injection-success?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+* 🔧 WordPress Security Tools
+  https://github.com/as4n3t/asc-markhor-security-tools
+
+* 🌐 Security Learning Labs
+  https://github.com/as4n3t/ASC-Markhor-Labs
+
+* 📁 Cybersecurity Portfolio Website
+  https://github.com/as4n3t/asc-markhor-portfolio
+
+---
+
+## 📧 Contact
+
+Email: [saim4sec@gmail.com](mailto:saim4sec@gmail.com)
+
+---
+
+## 🚀 Focus
+
+Helping website owners and businesses identify security risks, fix vulnerabilities, and strengthen their digital infrastructure through practical cybersecurity knowledge and ethical security practices.
+
+---
+
+## ⚠️ Disclaimer
+
+All activities and resources are intended strictly for **educational and authorized security testing purposes only**. Unauthorized testing or misuse is strictly discouraged.
+
+---
+
+> 🔐 Security is not a product — it is a process.
